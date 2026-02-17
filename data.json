@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechSoft",
+    "location": "Bangalore",
+    "category": "IT",
+    "experience": "Fresher",
+    "salary": "₹4 LPA",
+    "description": "Work with HTML, CSS, JavaScript and React."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "CodeHub",
+    "location": "Delhi",
+    "category": "IT",
+    "experience": "Mid",
+    "salary": "₹7 LPA",
+    "description": "Develop APIs using Node.js and MongoDB."
+  },
+  {
+    "id": 3,
+    "title": "UI Designer",
+    "company": "CreativeX",
+    "location": "Mumbai",
+    "category": "Design",
+    "experience": "Fresher",
+    "salary": "₹3.5 LPA",
+    "description": "Design UI/UX layouts using Figma."
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketer",
+    "company": "BrandGrow",
+    "location": "Delhi",
+    "category": "Marketing",
+    "experience": "Senior",
+    "salary": "₹8 LPA",
+    "description": "Handle SEO, ads, and marketing campaigns."
+  }
+]

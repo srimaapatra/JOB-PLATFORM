@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.badge {
+    font-size: 12px;
+}
